@@ -1,3 +1,17 @@
 body{
     display:flex;    
 }
+.container1 {
+    display:flex;
+    background-color: black;
+    flex: 1 1 0;
+    color:white;
+    font-size:25px;
+    font-weight:bolder;
+}
+.text{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 14px;
+}
