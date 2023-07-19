@@ -1,14 +1,15 @@
 body{
-    display:flex;    
+    display:flex;
+    flex-direction:column;    
 }
-.container1 {
+.container1{
     display:flex;
     background-color: black;
-    flex: 1 1 0;
     color:white;
     font-size:25px;
     font-weight:bolder;
     height:800px;
+    min-height:max-content;
 }
 .text{
     display:flex;
@@ -20,4 +21,13 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;   
+}
+.container2{
+    display:flex;
+    background-color: black;
+    color:white;
+    font-size:25px;
+    font-weight:bolder;
+    height:600px;
+    min-height:max-content;
 }
