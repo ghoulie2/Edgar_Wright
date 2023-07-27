@@ -65,6 +65,7 @@ img{
     display:flex;
     align-content:center;
     justify-content: center;
+    
 }
 .title{
     display:flex;
@@ -75,11 +76,15 @@ img{
 }
 .Dead_right{
     background-image:url(../Edgar_Wright/images/dead-right.jpg);
-    
-   height:900px;
+    height:900px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: contain;
     font-size:25px;
     font-weight:bolder;
+}
+.subtext2{
+    display:flex;
+    background-color:black;
+    color:white;
 }
