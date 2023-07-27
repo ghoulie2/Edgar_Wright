@@ -25,7 +25,8 @@ img{
     align-self:flex-end;
     justify-content: center;
     align-items: center;
-    padding-left: 14px;    
+    padding-left: 14px;  
+    /* fades the background color but doesn't effect the opacity of the entire container.*/  
     background-color:rgba(0, 3, 0, 0.7);
     border-radius:5%;
 }
