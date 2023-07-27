@@ -8,7 +8,8 @@ img{
 }
 .container1{
     display:flex;
-    background-color: black;
+    background-image:url(../Edgar_Wright/images/image_processing20220908-138-bacjph.jpg);
+    background-size:cover;
     color:white;
     font-size:25px;
     font-weight:bolder;
