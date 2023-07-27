@@ -75,11 +75,11 @@ img{
 }
 .Dead_right{
     background-image:url(../Edgar_Wright/images/dead-right.jpg);
-    min-height:600px;
+    
+   height:900px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: contain;
     font-size:25px;
     font-weight:bolder;
-    
 }
