@@ -28,6 +28,7 @@ img{
     padding-left: 14px;  
     /* fades the background color but doesn't effect the opacity of the entire container.*/  
     background-color:rgba(0, 3, 0, 0.7);
+    /* gives the box border a rounded edge*/
     border-radius:5%;
 }
 .image{
