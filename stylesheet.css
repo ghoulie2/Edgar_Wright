@@ -78,9 +78,9 @@ img{
 }
 .Dead_right{
     display:flex;
-    background-image:url(../Edgar_Wright/images/dead-right.jpg);
+    
     height:500px;
-    background:no-repeat;
+    
 }
 .subtext2{
     display:flex;
