@@ -64,9 +64,10 @@ img{
 }
 .subtext2{
     display:flex;
-    align-content:center;
+    font-size:25px;
+    font-weight:bolder;
     justify-content: center;
-    
+    height:100px;
 }
 .title{
     display:flex;
@@ -76,12 +77,10 @@ img{
     color:white;
 }
 .Dead_right{
+    display:flex;
     background-image:url(../Edgar_Wright/images/dead-right.jpg);
-    /*Creates parallax scrolling effect */
-    height:900px;
-   
-    font-size:25px;
-    font-weight:bolder;
+    height:500px;
+    background:no-repeat;
 }
 .subtext2{
     display:flex;
