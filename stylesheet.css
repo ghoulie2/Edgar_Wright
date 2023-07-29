@@ -79,9 +79,7 @@ img{
     background-image:url(../Edgar_Wright/images/dead-right.jpg);
     /*Creates parallax scrolling effect */
     height:900px;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: contain;
+   
     font-size:25px;
     font-weight:bolder;
 }
