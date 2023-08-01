@@ -1,4 +1,5 @@
 body{
+    /*Create the body of the web page to become a flexbox.*/
     display:flex;
     flex-direction:column;    
 }
