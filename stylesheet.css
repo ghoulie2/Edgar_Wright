@@ -88,3 +88,9 @@ img{
     background-color:black;
     color:white;
 }
+.poster3{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    border:1px solid blue;
+}
