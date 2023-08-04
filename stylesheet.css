@@ -17,7 +17,7 @@ img{
     font-weight:bolder;
     height:800px;
     min-height:max-content;
-}
+}/*freezes the text so it can appear over the image.*/
 .text{
     display:flex;
     margin-bottom:100px;
