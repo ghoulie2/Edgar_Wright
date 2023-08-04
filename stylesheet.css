@@ -48,6 +48,7 @@ img{
     height:600px;
     min-height:max-content;
 }
+/*third continaer styling the third head.*/
 .container3{
     display:flex;   
     background-color: black;
