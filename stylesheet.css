@@ -33,6 +33,7 @@ img{
     border-radius:5%;
 }
 .image{
+    /*Create image size and placement for first image */
     display:flex;
     justify-content: center;
     align-items: center; 
